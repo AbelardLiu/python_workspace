@@ -1,0 +1,6 @@
+[proxy]
+user = root
+passwd = huawei
+
+
+Hello
